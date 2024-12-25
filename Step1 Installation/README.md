@@ -7,11 +7,11 @@ Follow these simple steps to get started with Next.js:
 Ensure you have Node.js installed on your Laptop  
 # Step 2: Create a New Next.js Application
 Open your terminal and run the following command to create a new Next.js project
-npx create-next-app@latest project name
+              npx create-next-app@latest project name
 #Step 3: Navigate to the project Directory
-cd project-name
+                        cd project-name
 #Step 4: Run the Depoyment server 
-npm run dev
+                            npm run dev
 
                   Build Your Next.js Projects! 
                   Happy Journey of the Next.js
